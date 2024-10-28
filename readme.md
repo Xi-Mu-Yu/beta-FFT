@@ -30,26 +30,26 @@ MS-CMRSEG19: Download from [official link](https://zmiclab.github.io/zxh/0/mscmr
         ├── CaseXX.raw
         ├── test.list
         └── val.list
-	├── mscmrseg19_split1/
-	    ├── data/
-	    │   ├── patient1_LGE.h5
-	    │   ├── ...
-	    │   └── slices/
-	    │       ├── patient1_LGE_slice_0.h5
-	    │       └── ...
-	    ├── test.list
-	    ├── train_slices.list
-	    └── val.list
-	├── mscmrseg19_split2/
-	    ├── data/
-	    │   ├── patient1_LGE.h5
-	    │   ├── ...
-	    │   └── slices/
-	    │       ├── patient1_LGE_slice_0.h5
-	    │       └── ...
-	    ├── test.list
-	    ├── train_slices.list
-	    └── val.list
+    ├── mscmrseg19_split1/
+        ├── data/
+        │   ├── patient1_LGE.h5
+        │   ├── ...
+        │   └── slices/
+        │       ├── patient1_LGE_slice_0.h5
+        │       └── ...
+        ├── test.list
+        ├── train_slices.list
+        └── val.list
+    ├── mscmrseg19_split2/
+        ├── data/
+        │   ├── patient1_LGE.h5
+        │   ├── ...
+        │   └── slices/
+        │       ├── patient1_LGE_slice_0.h5
+        │       └── ...
+        ├── test.list
+        ├── train_slices.list
+        └── val.list
 ```
 
 ## 3. Usage
