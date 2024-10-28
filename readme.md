@@ -73,8 +73,6 @@ python test_ACDC_beta_FFT.py  # for ACDC testing
 python test_promise12_beta_FFT.py  # for PROMISE12 testing
 python test_MSCMR_split1.py  # for MS-CMRSEG19_split1
 python test_MSCMR_split2.py  # for MS-CMRSEG19_split2
-
-
 ```
 
 ## Acknowledgements
