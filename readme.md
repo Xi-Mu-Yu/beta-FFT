@@ -4,7 +4,10 @@
 
 
 ![image](framework.png)
-
+Co-training has achieved significant success in the field of semi-supervised learning; however, the homogenization phenomenon, which arises from multiple models tending towards similar decision boundaries, remains inadequately addressed. To tackle this issue, we propose a novel algorithm called $\beta$-FFT from the perspectives of data diversity and training structure.
+First, from the perspective of data diversity, we introduce a nonlinear interpolation method based on the \textbf{F}ast \textbf{F}ourier \textbf{T}ransform (\textbf{FFT}). This method generates more diverse training samples by swapping low-frequency components between pairs of images, thereby enhancing the model's generalization capability. Second, from the structural perspective, we propose a differentiated training strategy to alleviate the homogenization issue in co-training.In this strategy, we apply additional training with labeled data to one model in the co-training framework, while employing linear interpolation based on the \textbf{Beta} ($\beta$) distribution for the unlabeled data as a regularization term for the additional training. This approach enables us to effectively utilize the limited labeled data while simultaneously improving the model's performance on unlabeled data, ultimately enhancing the overall performance of the system.
+% Our method, \textbf{$\beta$-FFT}, effectively combines a small amount of labeled data with a large volume of unlabeled data. 
+Experimental results demonstrate that \textbf{$\beta$-FFT} outperforms current state-of-the-art (SOTA) methods on three public MRI datasets.
 
 ## 1. Installation
 
