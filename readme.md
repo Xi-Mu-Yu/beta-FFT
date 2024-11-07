@@ -56,7 +56,7 @@ MS-CMRSEG19: Download from [official link](https://zmiclab.github.io/zxh/0/mscmr
 ## 3. Usage
 **To train a model**
 ```
-When the paper is accepted, we will publish the training code.
+When the paper is accepted, we will release all code.
 ``` 
 **To test a model**
 
