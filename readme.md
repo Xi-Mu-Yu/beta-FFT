@@ -1,5 +1,5 @@
 <div align="center">
-<h1> (CVPR 2025) </h1>
+<h1> $\beta$-FFT: Nonlinear Interpolation and Differentiated Training Strategies for Semi-Supervised Medical Image Segmentation(CVPR 2025) </h1>
 </div>
 
 
