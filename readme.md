@@ -6,7 +6,9 @@ Co-training has achieved significant success in the field of semi-supervised lea
 
 ![image](framework.png)
 
-#### I am preparing for NeurIPS 2025, and the code will be released by the end of June.
+
+
+## I am preparing for NeurIPS 2025, and the code will be released by the end of June.
 ## 1. Installation
 
 ```
