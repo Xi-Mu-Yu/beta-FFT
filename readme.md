@@ -8,7 +8,7 @@ Co-training has achieved significant success in the field of semi-supervised lea
 
 
 
-#**I am preparing for NeurIPS 2025, and the code will be released by the end of June.**
+
 ## 1. Installation
 
 ```
@@ -58,7 +58,7 @@ MS-CMRSEG19: Download from [official link](https://zmiclab.github.io/zxh/0/mscmr
 ## 3. Usage
 **To train a model**
 ```
-When the paper is accepted, we will release all code.
+**I am preparing for NeurIPS 2025, and the code will be released by the end of June.**
 ``` 
 **To test a model**
 
