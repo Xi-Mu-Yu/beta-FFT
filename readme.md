@@ -58,7 +58,7 @@ MS-CMRSEG19: Download from [official link](https://zmiclab.github.io/zxh/0/mscmr
 ## 3. Usage
 **To train a model**
 ```
-**I am preparing for NeurIPS 2025, and the code will be released by the end of June.**
+**I will organize my code after submitting to NeurIPS 2025, and plan to make the code publicly available by the end of June.**
 ``` 
 **To test a model**
 
