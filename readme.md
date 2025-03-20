@@ -80,3 +80,4 @@ python test_MSCMR_split2.py  # for MS-CMRSEG19_split2
 
 ## Acknowledgements
 Our code is largely based on [SSL4MIS](https://github.com/HiLab-git/SSL4MIS), [BCP](https://github.com/DeepMed-Lab-ECNU/BCP), [DiffRect](https://github.com/CUHK-AIM-Group/DiffRect/),and [ABD](https://github.com/chy-upc/ABD). Thanks for these authors for their valuable work, hope our work can also contribute to related research.
+**Email：**huming708@gmail.com
