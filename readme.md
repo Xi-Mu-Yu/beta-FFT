@@ -7,7 +7,7 @@ Co-training has achieved significant success in the field of semi-supervised lea
 ![image](framework.png)
 
 
-
+## Nonlinear Interpolation and Differentiated Training Strategies for Semi-Supervised Medical Image Segmentation(CVPR 2025)
 
 ## 1. Installation
 
