@@ -13,6 +13,8 @@ In training structure, we devise a differentiated training strategy to mitigate 
 ## 1. Installation
 
 ```
+conda create -n beta python=3.8
+conda activate beta
 pip install -r requirements.txt
 ```
 ## 2. Dataset
