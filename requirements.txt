@@ -1,0 +1,13 @@
+pip install torch==2.0.0+cu118 torchvision==0.15.1+cu118 -f https://download.pytorch.org/whl/torch_stable.html -i https://pypi.tuna.tsinghua.edu.cn/simple
+python-dateutil
+tensorboardX
+tqdm
+scikit-image
+eniops
+h5py
+medpy
+opencv-python
+timm
+yacs
+numpy
+matplotlib
