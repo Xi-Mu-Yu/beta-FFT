@@ -63,13 +63,33 @@ MS-CMRSEG19: Download from [official link](https://zmiclab.github.io/zxh/0/mscmr
 ## 3. Usage
 **To train a model**
 ```
-I will organize my code after submitting another piece of work to NeurIPS 2025, and plan to make the code publicly available by the end of June
+├──ACDC_train_label_7:
+    cd train_ACDC
+    python beta_fft_label7.py
+
+├──ACDC_train_label_3:
+    cd train_ACDC
+    python beta_fft_label3.py
+
+├──MSCMRSEG_spilt1:
+   cd train_MSCMRSEG
+   python train_beta_fft1.py
+
+├──MSCMRSEG_spilt2:
+   cd train_MSCMRSEG
+   python train_beta_fft2.py
+
+├──promise12:
+  cd train_promise12
+  python train_promise12_bcp_fft.py
+
+
 ``` 
 **To test a model**
 
 We have given the model of the corresponding results of our paper
 ```
-code/model
+best_results/
 ```
 
 if you want to test, you can follow the code below.
@@ -78,9 +98,9 @@ if you want to test, you can follow the code below.
 
 ```
 python test_ACDC_beta_FFT.py  # for ACDC testing
-python test_promise12_beta_FFT.py  # for PROMISE12 testing
-python test_MSCMR_split1.py  # for MS-CMRSEG19_split1
-python test_MSCMR_split2.py  # for MS-CMRSEG19_split2
+python test_PROMISE12.py  # for PROMISE12 testing
+python test_2D.py  # for MS-CMRSEG19_split1
+python test_2D.py  # for MS-CMRSEG19_split2
 ```
 
 ## Acknowledgements
