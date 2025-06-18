@@ -101,8 +101,11 @@ if you want to test, you can follow the code below.
 ```
 python test_ACDC_beta_FFT.py  # for ACDC testing
 python test_PROMISE12.py  # for PROMISE12 testing
+
+*******************Replace the paths of split1 and split2 respectively.
 python test_2D.py  # for MS-CMRSEG19_split1
 python test_2D.py  # for MS-CMRSEG19_split2
+
 ```
 
 ## Acknowledgements
